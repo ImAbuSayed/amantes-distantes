@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amantes-distantes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Amantes distantes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-distantes/) |
+| **Get License** | [Official Music Licensing for Amantes distantes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amantes-distantes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bésame lento en la oscuridad
+> Tu piel con la mía es mi libertad
+> Late el motor, sube la temperatura
+> Toda la noche, solo tú y mi locura
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
