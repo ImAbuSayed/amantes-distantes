@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amantes distantes
+
+This log tracks the cryptographic history and versioning for the song **Amantes distantes** (amantes-distantes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T21:31:58.885166 | `v1` | `dac61a4f01cee1d0ea5ae6dc2e023bbd0fba2d946e689d50ccb6d049765c9597` | `598e40d70b6250d09cee4aae0db13d0142b2b2f6f775a1cf5a835c93abdea839` | `2026-06-19_amantes-distantes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
